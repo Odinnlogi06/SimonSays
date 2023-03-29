@@ -20,4 +20,4 @@ Alex er heitur:
 (https://img.youtube.com/vi/WIRK_pGdIdA&t/maxresdefault.jpg)]
 (https://www.youtube.com/watch?v=WIRK_pGdIdA&t)
 
-![](./28%20March%202023.mp4)
+https://user-images.githubusercontent.com/129166776/228399016-e45026b4-7f4a-4509-a3b5-5ae68ee137dd.mp4
