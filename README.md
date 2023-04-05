@@ -1,6 +1,13 @@
 # SimonSays
+Óðinn Logi Gunnarsson
 
-jiyg
+## Verkefnið
+1. Fyrsta sem ég gerði var að hanna kassan í inkscape.
+![óðinnlogigithub](https://user-images.githubusercontent.com/129166776/230197842-0ae514d2-ba13-4e05-bf86-3f1543481ad1.svg)
+2. Síðan undirbúði ég mig og setti upp Simon Says á arduino og prófaði með breadboard
+3. Svo tengdi ég ground vírana saman og svo við takkana 
+4. Og næst 
+
 
 :warning:
 
