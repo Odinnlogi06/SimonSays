@@ -17,26 +17,7 @@
 ![20230328_120349](https://user-images.githubusercontent.com/129166776/230201478-fdfbb04d-8871-4a0e-ad73-47232eb3833b.jpg)
 ![20230328_120442](https://user-images.githubusercontent.com/129166776/230201548-73a035f0-bd6f-42c7-b5eb-aea0bb2a97d1.jpg)
 ![20230328_120447](https://user-images.githubusercontent.com/129166776/230201593-3b9108e1-729e-4810-b6a3-85a66cfa8e04.jpg)
-
-
-
-
-:warning:
-
-## Mynd
-
-![](./alex-removebg-preview.png)
-
-Alex er heitur:
-1. Já
-2. Jebb
-
-### Chip
-
-[![](https://img.youtube.com/WIRK_pGdIdA&t=1448s/0.jpg)](https://www.youtube.com/watch?v=WIRK_pGdIdA&t=1448s)
-
-[![ Chip ]
-(https://img.youtube.com/vi/WIRK_pGdIdA&t/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=WIRK_pGdIdA&t)
-
+7. Svo kveikti ég á þessu og það virkaði :smile:
 https://user-images.githubusercontent.com/129166776/228399016-e45026b4-7f4a-4509-a3b5-5ae68ee137dd.mp4
+
+### 
