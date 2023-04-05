@@ -6,7 +6,13 @@
 ![óðinnlogigithub](https://user-images.githubusercontent.com/129166776/230197842-0ae514d2-ba13-4e05-bf86-3f1543481ad1.svg)
 2. Síðan undirbúði ég mig og setti upp Simon Says á arduino og prófaði með breadboard
 3. Svo tengdi ég ground vírana saman og svo við takkana 
-4. Og næst 
+4. Og næst lóðaði ég alla vírana við veroborðið sem myndi tengjast við arduinoið
+![20230328_093856](https://user-images.githubusercontent.com/129166776/230199217-9ee9b3b4-d15e-47c6-ba87-4bb7b5fbe53d.jpg)
+![20230328_093928](https://user-images.githubusercontent.com/129166776/230199290-842c8560-8322-484d-a0dc-4f5dca257b83.jpg)
+![20230328_094952](https://user-images.githubusercontent.com/129166776/230199327-ea61b072-52cd-4489-b22b-75eb389ffb02.jpg)
+![20230328_095003](https://user-images.githubusercontent.com/129166776/230199469-f9718d7a-1740-4f05-8774-d81cc775e6e0.jpg)
+
+
 
 
 :warning:
